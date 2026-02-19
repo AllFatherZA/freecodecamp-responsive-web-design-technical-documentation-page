@@ -13,7 +13,7 @@ A responsive technical documentation page built as part of a freeCodeCamp projec
   - Variable scope
   - Reference section
 - Code Examples: Includes practical code snippets demonstrating variable declarations and scope
-- Mobile-Responsive Design**: Media query breakpoints for different screen sizes
+- Mobile-Responsive Design: Media query breakpoints for different screen sizes
 
 🛠️ Technologies Used
 
